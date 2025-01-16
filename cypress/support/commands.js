@@ -1,1 +1,1 @@
-//comandos mais genericos e reutilizados
+///comandos mais genericos e reutilizados
