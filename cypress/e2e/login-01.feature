@@ -4,4 +4,4 @@
 Funcionalidade: testeLogin-01 - Login Portal
     Cenário: Validação Login Portal
         Dado que acesso o portal My Shop
-            
+        Quando Realizo login no portal
